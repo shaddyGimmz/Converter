@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/53055404ff90e9f2dee3754bddf051de/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c058d09bf4352b06fa08ffcdbd1a8a2f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/ac6775067bde9a5ae0e1ee78541dd9f4/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/bb37ec104bd729b82a1b5d59e2327e22/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/5bce69819eecd2fcbf388ab761bdeda0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2727ade073f93ca17290a98baf0d5480/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/e3305ee466db42c7662ebd6b8353ff6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65d68d5d0e96eef4f9c637ee2506ce87/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/0dbe210feb94a619987549f1646bd457/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/51a0f04db30d0e450dfd3cbe4aa0cd8c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6e6c85093726813c3b3567706e261653/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/e663dbb3b63da2836771d848c33f55a1/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/312f2ea618b9e94bb848534038641af0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/a44c4076434f7a734640246627d6d677/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/95e67ddc7ae7d996a82b4c3eeb9bc201/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/b56548f77af4c21501d14b269e734588/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c263028bf805a882207d87aa4450057e/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/58d862c6cccab99ad81adbc70609b287/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3e1c4b6d553a39b107682d2873739c72/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/2479e033f5598af705ea2e9a1ddc5eef/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/d7ae2b0eadfcff8c846f595a55935bb8/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/022ca33747da1cedd28abfdac7d3a920/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c4656c1c72b3cf9a25ee9a4c8232896/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4596e1d9dee23b86fad4c72647b5b8b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3b34c6ff85d1ae9095902ccb689a263/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c058d09bf4352b06fa08ffcdbd1a8a2f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c058d09bf4352b06fa08ffcdbd1a8a2f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.carol.converter.MainActivity
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/53055404ff90e9f2dee3754bddf051de/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/53055404ff90e9f2dee3754bddf051de/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c058d09bf4352b06fa08ffcdbd1a8a2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/c058d09bf4352b06fa08ffcdbd1a8a2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/ac6775067bde9a5ae0e1ee78541dd9f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/ac6775067bde9a5ae0e1ee78541dd9f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/bb37ec104bd729b82a1b5d59e2327e22/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/bb37ec104bd729b82a1b5d59e2327e22/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/5bce69819eecd2fcbf388ab761bdeda0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/5bce69819eecd2fcbf388ab761bdeda0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2727ade073f93ca17290a98baf0d5480/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/2727ade073f93ca17290a98baf0d5480/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/e3305ee466db42c7662ebd6b8353ff6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/e3305ee466db42c7662ebd6b8353ff6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65d68d5d0e96eef4f9c637ee2506ce87/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65d68d5d0e96eef4f9c637ee2506ce87/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/0dbe210feb94a619987549f1646bd457/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/0dbe210feb94a619987549f1646bd457/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/51a0f04db30d0e450dfd3cbe4aa0cd8c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/51a0f04db30d0e450dfd3cbe4aa0cd8c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6e6c85093726813c3b3567706e261653/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6e6c85093726813c3b3567706e261653/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/e663dbb3b63da2836771d848c33f55a1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/e663dbb3b63da2836771d848c33f55a1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/312f2ea618b9e94bb848534038641af0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/312f2ea618b9e94bb848534038641af0/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/a44c4076434f7a734640246627d6d677/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/a44c4076434f7a734640246627d6d677/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/95e67ddc7ae7d996a82b4c3eeb9bc201/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/95e67ddc7ae7d996a82b4c3eeb9bc201/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/b56548f77af4c21501d14b269e734588/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/b56548f77af4c21501d14b269e734588/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c263028bf805a882207d87aa4450057e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/c263028bf805a882207d87aa4450057e/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/58d862c6cccab99ad81adbc70609b287/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/58d862c6cccab99ad81adbc70609b287/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3e1c4b6d553a39b107682d2873739c72/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3e1c4b6d553a39b107682d2873739c72/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/2479e033f5598af705ea2e9a1ddc5eef/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/2479e033f5598af705ea2e9a1ddc5eef/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/d7ae2b0eadfcff8c846f595a55935bb8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/carol/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/d7ae2b0eadfcff8c846f595a55935bb8/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/022ca33747da1cedd28abfdac7d3a920/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/022ca33747da1cedd28abfdac7d3a920/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c4656c1c72b3cf9a25ee9a4c8232896/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c4656c1c72b3cf9a25ee9a4c8232896/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4596e1d9dee23b86fad4c72647b5b8b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4596e1d9dee23b86fad4c72647b5b8b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3b34c6ff85d1ae9095902ccb689a263/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/carol/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3b34c6ff85d1ae9095902ccb689a263/AndroidManifest.xml:20:5-44
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		ADDED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carol/AndroidStudioProjects/Converter/app/src/main/AndroidManifest.xml
